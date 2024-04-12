@@ -1,4 +1,5 @@
 ### Index
+- [***Back to Main***](/)
 - [Scan Surprise](#scan-surprise)
 - [Verify](#verify)
 

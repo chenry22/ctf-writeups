@@ -1,4 +1,5 @@
 ### Index
+- [***Back to Main***](/)
 - [Bookmarklet](#bookmarklet)
 - [WebDecode](#webdecode)
 

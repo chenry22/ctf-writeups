@@ -1,4 +1,5 @@
 ### Index
+- [***Back to Main***](/)
 - [Super SSH](#super-ssh)
 - [Commitment Issues](#commitment-issues)
 - [Time Machine](#time-machine)
