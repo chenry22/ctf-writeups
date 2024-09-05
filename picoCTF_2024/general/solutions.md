@@ -4,7 +4,7 @@
 - [Commitment Issues](#commitment-issues)
 - [Time Machine](#time-machine)
 - [Binary Search](#binary-search)
-- [endianness] (#endianness)
+- [endianness](#endianness)
 - [Collaborative Development](#collaborative-development)
 
 ### Super SSH
